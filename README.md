@@ -1,2 +1,1 @@
-# primeiro-desafio-DIO-meusEstudos
-Desafio de projeto sobre Git e Github.
+# Primeiro Desafio de projeto sobre Git e Github
